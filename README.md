@@ -1,4 +1,7 @@
-# PoornessCalculator
+# Poorness Calculator
+This is a simple app for calculating how much to set aside monthly for loan repayment.
+In addition, it keeps track of how much has been already paid off 
+and the remaining balance for each individual loan and running totals.
 
 ## The main screen will have 2 options: 
 1. Start with fresh loan 
