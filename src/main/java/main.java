@@ -4,5 +4,5 @@ public class Main {
         System.out.println("Hello world!");
     }
     // testing git
-    // another test
+    // new test for git
 }
